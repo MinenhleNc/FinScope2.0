@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.USE_BIOMETRIC"/>
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/logonew"
+        android:label="Centsible"
+        android:roundIcon="@mipmap/logonew"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CentsibleTest"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".HealthActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SetIncomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".reports"
+            android:exported="false" />
+        <activity
+            android:name=".TransactionDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".achievements"
+            android:exported="false" />
+        <activity
+            android:name=".viewgoals"
+            android:exported="false" />
+        <activity
+            android:name=".setgoals"
+            android:exported="false" />
+        <activity
+            android:name=".editprofile"
+            android:exported="false" />
+        <activity
+            android:name=".profile"
+            android:exported="false" />
+        <activity
+            android:name=".add_trans"
+            android:exported="false" />
+        <activity
+            android:name=".viewTrans"
+            android:exported="false" />
+        <activity
+            android:name=".viewBugCat"
+            android:exported="false" />
+        <activity
+            android:name=".addBugCat"
+            android:exported="false" />
+        <activity
+            android:name=".signupD"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".welcome"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".signin"
+            android:exported="false" />
+    </application>
+
+</manifest>

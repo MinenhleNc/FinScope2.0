@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorAccentPink">#ED3EE1</color> <!-- Main accent -->
+    <color name="colorLightPink">#F8C6F2</color>  <!-- Light pink shade -->
+    <color name="colorMidPink">#D94FC9</color>    <!-- Mid pink tone -->
+    <color name="colorDarkPink">#B017A3</color>   <!-- Deeper pink -->
+    <color name="colorGrey">#CCCCCC</color>       <!-- Neutral gray -->
+</resources>
+

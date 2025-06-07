@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardGoal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="16dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="8dp"
+    app:cardBackgroundColor="#1E1E1E"
+    android:clickable="true"
+    android:focusable="true">
+    <Button
+        android:id="@+id/btnDeleteGoal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete"
+        android:backgroundTint="@color/colorAccentPink"
+        android:textColor="@android:color/black"
+        android:layout_gravity="end"
+        android:layout_marginTop="8dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvMonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Month"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/tvMinGoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Min Goal:"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp"
+            android:layout_marginBottom="8dp" />
+
+        <TextView
+            android:id="@+id/tvMaxGoal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Max Goal:"
+            android:textColor="#FFFFFF"
+            android:textSize="16sp" />
+        <!-- goal_card.xml, inside the existing LinearLayout below tvMaxGoal -->
+        <ProgressBar
+            android:id="@+id/pbGoalProgress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressDrawable="@drawable/rounded_progress_bar"
+            android:layout_width="match_parent"
+            android:layout_height="8dp"
+            android:layout_marginTop="12dp"
+            android:max="100"
+            android:progress="20"/>
+
+        <TextView
+            android:id="@+id/tvSpent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Spent: R0.00"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/tvLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Left: R0.00"
+            android:textColor="#FFFFFF"
+            android:layout_marginTop="4dp"/>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+
+    <!--
+       Author: Lars Vogel(Vogella Tutorials)
+       Accessibiltiy:https://www.vogella.com/tutorials/android.html
+       Date Accessed: 02/05/2025
+       -->
+
+
+

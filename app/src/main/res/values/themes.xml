@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CentsibleTest" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorAccentPink</item> <!-- Updated to pink -->
+        <item name="android:fontFamily">@font/intersemi</item>
+        <item name="buttonStyle">@style/CustomButtonStyle</item>
+    </style>
+
+    <style name="Theme.CentsibleTest" parent="Base.Theme.CentsibleTest" />
+</resources>
+
