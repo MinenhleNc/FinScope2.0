@@ -43,16 +43,25 @@ Finscope is a user-friendly budget tracking mobile app designed to help users ma
 ---
 
 ### 📈 Our Custom Features (from design document):
+🎯 Goals Page
+The Goals Page helps users plan and manage their financial goals with the following features:
 
-1. **Achievement Badges:**
+Set minimum and maximum monthly spending limits to guide budgeting.
 
-   * Users are rewarded with badges based on consistent app usage and achieving budget goals over time.
-   * Badges: Basic, Silver, Gold — each representing user engagement and financial discipline.
+Track progress with visual indicators that reflect spending and savings in real-time.
 
-2. **Detailed Transaction Viewer:**
+Display budget status directly on the Home Page for easy access.
 
-   * Tap any transaction entry to view full details, including attached receipt images.
-   * Makes it easier to track back expenses and validate spending.
+Create custom financial goals tailored to personal financial plans.
+
+📊 Reports Page
+The Reports Page offers in-depth financial insights through:
+
+Interactive graphs and bar charts to visualize expenses and goals.
+
+A date selector to view data for specific months or custom time ranges.
+
+A goal timeline view, helping users analyze performance over time and make better financial decisions.
 
 ---
 
