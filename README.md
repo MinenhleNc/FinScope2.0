@@ -117,4 +117,6 @@ git clone [https://github.com/MinenhleNc/FinScope2.0.git]
 *https://github.com/MinenhleNc/FinScope2.0.git*
 
 ---
+![WhatsApp Image 2025-06-09 at 20 20 07_4ff5eecd](https://github.com/user-attachments/assets/8e50e997-700b-435c-a2c9-20bc041ebb0a)
+
 
