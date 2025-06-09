@@ -97,6 +97,17 @@ git clone [https://github.com/MinenhleNc/FinScope2.0.git]
 ### 📷 Screenshots
 
 *![IMG-20250609-WA0017](https://github.com/user-attachments/assets/c67c10e3-d203-44c1-9cf9-f0d841a694eb)
+*![IMG-20250609-WA0014](https://github.com/user-attachments/assets/bc9c25ba-3715-4ec9-87e7-60459eb0668d)
+*![IMG-20250609-WA0006](https://github.com/user-attachments/assets/6a09c1fb-b6b5-42d8-949d-38a8ab85b62a)
+*![IMG-20250609-WA0008](https://github.com/user-attachments/assets/1cb18d89-fa26-4a1f-a147-5bd3ae199dc0)
+*![IMG-20250609-WA0007](https://github.com/user-attachments/assets/3e2f617a-6577-40b7-a7e3-12dae6654d64)
+*![IMG-20250609-WA0013](https://github.com/user-attachments/assets/2589933a-d255-4c88-a51e-1fac3d3d9841)
+*![IMG-20250609-WA0012](https://github.com/user-attachments/assets/bef72624-6c3a-427c-ac9c-d9a3a9771e31)
+*![IMG-20250609-WA0011](https://github.com/user-attachments/assets/265d264e-eda2-4210-8940-26428e8652bc)
+*![IMG-20250609-WA0010](https://github.com/user-attachments/assets/2e7d9c9f-8f66-4d8c-844e-90c6d81cbe14)
+*![IMG-20250609-WA0016](https://github.com/user-attachments/assets/3e73422d-b200-474b-bc1c-fd7158feb526)
+*![IMG-20250609-WA0015](https://github.com/user-attachments/assets/9aab5d93-5403-4b1b-a3e8-7f31bc40293d)
+
 
 
 ---
