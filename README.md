@@ -93,9 +93,7 @@ git clone [https://github.com/MinenhleNc/FinScope2.0.git]
 
 ### 🔗 Repository Link
 
-*Insert your GitHub repository link here*
+*https://github.com/MinenhleNc/FinScope2.0.git*
 
 ---
-
-Feel free to ask if you’d like help filling in the demo video or repo link later, or if you want me to polish up this further for submission formatting!
 
