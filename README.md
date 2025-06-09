@@ -43,7 +43,7 @@ Finscope is a user-friendly budget tracking mobile app designed to help users ma
 ---
 
 ### 📈 Our Custom Features (from design document):
-🎯 Goals Page
+* **🎯 Goals Page**
 The Goals Page helps users plan and manage their financial goals with the following features:
 
 Set minimum and maximum monthly spending limits to guide budgeting.
@@ -54,7 +54,7 @@ Display budget status directly on the Home Page for easy access.
 
 Create custom financial goals tailored to personal financial plans.
 
-📊 Reports Page
+* **📊 Reports Page**
 The Reports Page offers in-depth financial insights through:
 
 Interactive graphs and bar charts to visualize expenses and goals.
