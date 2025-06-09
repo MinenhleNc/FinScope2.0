@@ -9,7 +9,7 @@
 
 ### 🎥 Demonstration Video
 
-*A link to the demonstration video goes here, showing the app running on a mobile device with voiceover.*
+*A link to the demonstration video[ https://youtu.be/gIuqpqkuRJ0] , showing the app running on a mobile device with voiceover.*
 
 ---
 
